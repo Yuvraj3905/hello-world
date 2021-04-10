@@ -1,2 +1,5 @@
 # hello-world
-first repository
+
+HI HUMANS
+
+WHY SO SERIOUS??
